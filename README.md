@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy marlowydev 👋
 
-<!--
-**marlowydev/marlowydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una estudiante de secundaria de Venezuela enfocado en dominar el desarrollo de software, la lógica algorítmica y las ciencias de la computación mediante **C++** (mi lenguaje favorito). Actualmente me dedico a explorar la arquitectura de software y el desarrollo de simuladores y videojuegos en primera instancia ejecutables en consola y proximamente en 2D.
 
-Here are some ideas to get you started:
+## 🚀 En lo que estoy trabajando actualmente
+* 📖 Formalizando mis bases de ciencias de la computación y estructuras de datos.
+* 🕹️ Desarrollando prototipos de juegos de consola para dominar la Programación Orientada a Objetos (POO).
+* 🎨 Dando el salto hacia entornos gráficos e interactivos utilizando **SFML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** C++ (Moderno)
+* **Librerías/Frameworks:** SFML (Simple and Fast Multimedia Library)
+* **Entornos y Herramientas:** Git, GitHub, Windows API
+
+* Los lenguajes proximos que me encantaria aprender son python, javascript y un poco de todo porque deseo ser un dev full stack, tengo 17 pero la edad es solo un numero cuando de aprender se trata
