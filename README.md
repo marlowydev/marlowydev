@@ -1,4 +1,4 @@
-# ¡Hola! Soy marlowydev 👋
+# ¡Hola! Soy marlowydev 
 
 Soy una estudiante de secundaria de Venezuela enfocado en dominar el desarrollo de software, la lógica algorítmica y las ciencias de la computación mediante **C++** (mi lenguaje favorito). Actualmente me dedico a explorar la arquitectura de software y el desarrollo de simuladores y videojuegos en primera instancia ejecutables en consola y proximamente en 2D.
 
